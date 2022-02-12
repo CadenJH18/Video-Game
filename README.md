@@ -11,6 +11,7 @@ Status:
 Credits:
     https://www.w3schools.com/
     https://codepen.io/FRADAR/pen/WNoVEzy
+    https://github.com/Beat0154/easiest-game-ever
 
 Contact:
     Email Address: caden.hickie18@gmail.com
@@ -26,6 +27,7 @@ HTML
     level # in top left
     progress bar top middle if have time?
     death counter if have time?
+    display for completion of level
 
 CSS
     box
@@ -34,13 +36,17 @@ CSS
     progress bar?
 
 JS
-    make box move
-    make box jump via *spacebar*
-    build level
-    make restart after death
-    holding *spacebar* makes box jump immediately after it touches platform
-    progress bar if have time?
-    death counter if have time?
+    1.make platform
+    2.make character
+    3.make character jump with space
+    4.make platform move
+    5.jump animation
+    6.make obstacles
+    7.restart after death
+    8.holding space to continous jump
+    Bonus!
+    9.death counter
+    10.progress bar
 
 
 
