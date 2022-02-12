@@ -1,21 +1,30 @@
 #header {
+    text-align: center;
+}
+
+ul{
     list-style-type: none;
-    color: red;
     background-color: black;
-    width: 100%;
-    height: 5em;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border-top: solid 1px;
+    border-bottom: solid 1px;
 }
-
-.levelNum {
+li{
     float: left;
+    color: white;
+    padding: 20px;
+    width: ;
+    text-align: center;
+    vertical-align: middle;
 }
 
-#title {
-    
-}
-
-#deathCounter {
-
+#progressBar {
+    background-color: darkorchid;
+    height: 40px;
+    color: floralwhite;
+    text-align: center;
 }
 
 #gameDisplay {

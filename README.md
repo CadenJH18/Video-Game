@@ -1,8 +1,19 @@
 # Video-Game
 
-Box Bounce(geometry dash)
-inspired by geometry dash
-more inspiration https://codepen.io/FRADAR/pen/WNoVEzy
+Box Bounce is inspired by Geometry Dash
+    1 player
+    platformer where the player controls a block and jumps from  platform to platform avoiding any obstacles
+    goal: get to the end of the level
+
+Status:
+    In development
+
+Credits:
+    https://www.w3schools.com/
+    https://codepen.io/FRADAR/pen/WNoVEzy
+
+Contact:
+    Email Address: caden.hickie18@gmail.com
 
 HTML
 start screen
@@ -32,7 +43,3 @@ death counter if have time?
 
 
 HAVE PROGRESS BAR OVERLAP ON TOP OF GAME DISPLAY AT THE TOP OF THE DIV SO LEAVE ROOM WHILE DOING LEVEL DESIGN FOR IT!!!!!
-
-sources:
-https://www.w3schools.com/
-https://codepen.io/FRADAR/pen/WNoVEzy
