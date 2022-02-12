@@ -1,0 +1,26 @@
+#header {
+    list-style-type: none;
+    color: red;
+    background-color: black;
+    width: 100%;
+    height: 5em;
+}
+
+.levelNum {
+    float: left;
+}
+
+#title {
+    
+}
+
+#deathCounter {
+
+}
+
+#gameDisplay {
+    color: purple;
+    background-color: aqua;
+    width: 100%;
+    height: 50em;
+}
