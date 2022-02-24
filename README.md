@@ -10,8 +10,12 @@ Status:
 
 Credits:
     https://www.w3schools.com/
+    
     https://codepen.io/FRADAR/pen/WNoVEzy
+
     https://github.com/Beat0154/easiest-game-ever
+
+    https://https://replit.com/@CadenJH18/Propertyjs-p5js-ver#index.html
 
 Contact:
     Email Address: caden.hickie18@gmail.com
@@ -36,12 +40,16 @@ CSS
     progress bar?
 
 JS
-    1.make platform
-    2.make character
+    1.make platform   lol kinda done
+    2.make character   *
     3.make character jump with space
-    4.make platform move
+        ->can only jump by clicking button
+        ->make it only jump when touching ground!!
+    4.make platform move   *
     5.jump animation
-    6.make obstacles
+    6.make obstacles   *
+        -> i cant jump on boxes yet but i can die
+        -> obstacles work great
     7.restart after death
     8.holding space to continous jump
     Bonus!
